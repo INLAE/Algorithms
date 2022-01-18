@@ -18,6 +18,6 @@ def fibonacci(n):
 
 if __name__ == '__main__':
     """Тест"""
-    for i in range(1):
+    for i in range(6):
         num = random.randint(1, 16)
         print(num, '- число Фибоначчи это', fibonacci(num))
