@@ -16,6 +16,7 @@ def isPrime(num):
 
 
 if __name__ == '__main__':
+    """Тест"""
     for i in range(6):
         num = random.randint(1, 666)
         print(num, isPrime(num))
