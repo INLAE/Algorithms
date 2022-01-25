@@ -48,5 +48,5 @@ if __name__ == '__main__':
             f = 'x^2'
         else:
             f = 'sin2x'
-        print("Для функции", f, "в пределах", left, right)
-        print("интеграл =", integral(left, right, flag))
+        print(f"Площадь функции {f} в пределах от {left} до pi")
+        print("равна: ", integral(left, right, flag))
