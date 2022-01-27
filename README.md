@@ -38,24 +38,9 @@
 - [Факториал](https://github.com/IvanAnvi/Algorithms/blob/master/Factorial.py)
 - [НОД и НОК 2 чисел](https://github.com/IvanAnvi/Algorithms/blob/master/GCD%20and%20LCM.py)
 - [Сортировка. Timsort и Qucksort](https://github.com/IvanAnvi/Algorithms/blob/master/TimSort%20and%20QuickSort.py)
-- [Обзор VSCode Stories. Плагины Visual Studio Code](https://webtricks-master.ru/novosti-it/obzor-vscode-stories-plaginy-visual-studio-code/)
+- [Обзор VSCode Stories. Плагины Visual Studio Code](https://github.com/IvanAnvi/Algorithms/blob/master/TimSort%20and%20QuickSort.py)
 
 
-### My YouTube Videos:
-<!-- YOUTUBE:START -->
-- [Как найти работу джуну без опыта? пошаговая инструкция](https://www.youtube.com/watch?v=DzyKrIBHln8)
-- [Пишем список задач на React &lpar;React Hooks&rpar;](https://www.youtube.com/watch?v=XwIiBXZ41Os)
-- [Custom Hooks на примерах. Пишем свой useInput, useFetch, useTheme - React Hooks](https://www.youtube.com/watch?v=VFefv_YSGfY)
-- [Учим useLayoutEffect за 6 минут - React Hooks](https://www.youtube.com/watch?v=KaaH6cra2lo)
-- [Учим useCallback за 7 минут - React Hooks](https://www.youtube.com/watch?v=AqCkWH4ws1Y)
-<!-- YOUTUBE:END -->
-
-<details>
-  <summary>:zap: Statistics:</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladKalachev&langs_count=8&layout=compact" />
-    <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VladKalachev&show_icons=true" />
-</details>
 
 
 [instagram]: https://www.instagram.com/acidumdisoxirybonucleicum/
