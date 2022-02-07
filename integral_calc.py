@@ -49,4 +49,9 @@ if __name__ == '__main__':
         else:
             f = 'sin2x'
         print(f"Площадь функции {f} в пределах от {left} до pi")
-        print("равна: ", integral(left, right, flag))
+        square = integral(left, right, flag)
+
+        # если интеграл получился отрицательный
+        if square < 0:
+            square = abs(square)
+        print("равна: ", square)
